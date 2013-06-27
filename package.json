@@ -8,7 +8,7 @@
     "url": "git://github.com/codeparty/derby-ui-boot.git"
   },
   "dependencies": {
-    "bootstrap": "https://github.com/twitter/bootstrap/tarball/master"
+    "bootstrap": "git://github.com/twitter/bootstrap.git"
   },
   "devDependencies": {},
   "optionalDependencies": {},
